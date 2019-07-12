@@ -1,7 +1,4 @@
 Greetings my friend!
-<<<<<<< HEAD
 This is my line
-=======
 This is gonna get screwy
->>>>>>> 64d5855c0c03970177f4ca42635fdbd7e304fff3
 Another line
